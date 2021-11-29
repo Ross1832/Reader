@@ -1,6 +1,6 @@
 body {
   margin: 0 0 0 0;
-  background: #456;
+  background: #117A65;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -13,7 +13,7 @@ body {
     margin: auto;
     margin-top: 25px;
     height:400px;
-    width: 65%;
+    width: 55%;
 }
 
 .login {
@@ -31,8 +31,9 @@ body {
 
 
 .login_header {
-  background: #28d;
+  background: #73C6B6 ;
   padding: 20px;
+  margin: 0 0 15px 0;
   font-size: 22px;
   font-weight: normal;
   text-align: center;
@@ -51,12 +52,12 @@ body {
   border-width: 1px;
   border-style: solid;
   font-size: 14px;
-  color: #555;
+
 }
 
 
 .login input[type="submit"] {
-  background: #28d;
+  background: #73C6B6 ;
   border-color: transparent;
   color: #fff;
   cursor: pointer;
@@ -70,6 +71,6 @@ body {
 }
 
 .create_account a {
-  color: #2980B9;
+  color: #FCF3CF;
   text-decoration: none;
 }

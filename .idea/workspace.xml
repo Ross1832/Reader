@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c80ce68-d717-4d49-9085-9e8d958d88e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reader/registration/static/registration/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/registration/templates/registration/login_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/registration/urls.py" afterDir="false" />
+    <list default="true" id="29caf3e0-5b14-4311-9832-75c17653ae89" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Reader_Blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reader_Blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reader/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/reader/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reader/reader/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/reader/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reader/registration/templates/registration/registration_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/reader/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/reader/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/registration/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/registration/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/registration/static/registration/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/static/registration/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/registration/templates/registration/login_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/templates/registration/login_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/registration/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reader/registration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/registration/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,37 +21,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="21PzSNhpE3rrke4bMIrDIGEg7VX" />
+  <component name="ProjectId" id="21ahswUnlEZ59jWtZ6GILkMjGCl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/reader/registration/static/registration" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/reader/registration/static/registration" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.models">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reader_Blog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,53 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reader/reader" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reader/reader/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Reader_Blog" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../pythonProject/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reader/registration" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reader/registration/models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reader/registration/apps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,26 +55,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.__init__" />
-      <item itemvalue="Python.models" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.models" />
-        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.apps" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c80ce68-d717-4d49-9085-9e8d958d88e8" name="Changes" comment="" />
-      <created>1637857509450</created>
+      <changelist id="29caf3e0-5b14-4311-9832-75c17653ae89" name="Changes" comment="" />
+      <created>1638185319244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637857509450</updated>
+      <updated>1638185319244</updated>
     </task>
     <servers />
   </component>
@@ -145,6 +82,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
