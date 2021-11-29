@@ -1,0 +1,29 @@
+{% load static %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reader</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'registration/login.css' %}">
+</head>
+<body>
+<!--Head-->
+<div class="library"><img src="{% static 'registration/book.jpg' %}" alt="Library"></div>
+<!--Form of the registration or Login-->
+<div class="login">
+    <div class="login_form">
+        <h2 class="login_header">Log in</h2>
+        <form action="" method="post">
+            {% csrf_token %}
+            <p><input type="email" placeholder="Email"></p>
+            <p><input type="password" placeholder="Password"></p>
+            <p><input type="submit" value="Log in"></p>
+            <p class="create_account">Not registered? <a href="#">Create an account</a></p>
+        </form>
+    </div>
+</div>
+
+
+
+</body>
+</html>

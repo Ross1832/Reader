@@ -1,0 +1,75 @@
+body {
+  margin: 0 0 0 0;
+  background: #456;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.library{
+
+}
+.library img {
+
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    height:400px;
+    width: 65%;
+}
+
+.login {
+  width: 400px;
+  margin: 100px auto;
+  font-size: 16px;
+}
+
+/* Reset top and bottom margins from certain elements */
+.login_header,
+.login p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.login_header {
+  background: #28d;
+  padding: 20px;
+  font-size: 22px;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+
+/* Every row inside .login-container is defined with p tags */
+
+
+.login input {
+  padding: 16px;
+  margin: 12px 0px 12px 0;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  font-size: 14px;
+  color: #555;
+}
+
+
+.login input[type="submit"] {
+  background: #28d;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.create_account {
+    text-align: center;
+    color: #b3b3b3;
+    font-size: 15px;
+}
+
+.create_account a {
+  color: #2980B9;
+  text-decoration: none;
+}
